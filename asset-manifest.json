@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "./static/css/main.db1ac2bf.chunk.css",
+    "main.js": "./static/js/main.6a82aa25.chunk.js",
+    "main.js.map": "./static/js/main.6a82aa25.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.0c554144.js",
+    "runtime-main.js.map": "./static/js/runtime-main.0c554144.js.map",
+    "static/js/2.0b473dfa.chunk.js": "./static/js/2.0b473dfa.chunk.js",
+    "static/js/2.0b473dfa.chunk.js.map": "./static/js/2.0b473dfa.chunk.js.map",
+    "static/js/3.6085e481.chunk.js": "./static/js/3.6085e481.chunk.js",
+    "static/js/3.6085e481.chunk.js.map": "./static/js/3.6085e481.chunk.js.map",
+    "index.html": "./index.html",
+    "static/css/main.db1ac2bf.chunk.css.map": "./static/css/main.db1ac2bf.chunk.css.map",
+    "static/js/2.0b473dfa.chunk.js.LICENSE.txt": "./static/js/2.0b473dfa.chunk.js.LICENSE.txt",
+    "static/media/biscoito.10574f4a.png": "./static/media/biscoito.10574f4a.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0c554144.js",
+    "static/js/2.0b473dfa.chunk.js",
+    "static/css/main.db1ac2bf.chunk.css",
+    "static/js/main.6a82aa25.chunk.js"
+  ]
+}
